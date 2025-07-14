@@ -10,3 +10,5 @@
  - Created comparative dashboards for batter performance and dismissal types
  🛠️ Tools & Skills Used: MySQL, SQL Joins, Window Functions, Aggregations, Grouping, Subqueries, Match Data Analysis
  #### This project helped sharpen my SQL and analytical thinking by applying it to a live match scenario, showing how data can drive strategic insights even in sports.
+## Schema Overview
+<img width="711" height="431" alt="Database schema overview" src="https://github.com/user-attachments/assets/31eaf2a9-1031-458e-aa05-1be751492b54" />
