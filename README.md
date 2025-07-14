@@ -8,6 +8,5 @@
  - Performed player-wise and over-wise performance analysis
  - Calculated cumulative scores, ranked bowlers, and analyzed batting phases
  - Created comparative dashboards for batter performance and dismissal types
- 🛠️ Tools & Skills Used:
-  MySQL, SQL Joins, Window Functions, Aggregations, Grouping, Subqueries, Match Data Analysis
- This project helped sharpen my SQL and analytical thinking by applying it to a live match scenario, showing how data can drive strategic insights even in sports.
+ 🛠️ Tools & Skills Used: MySQL, SQL Joins, Window Functions, Aggregations, Grouping, Subqueries, Match Data Analysis
+ #### This project helped sharpen my SQL and analytical thinking by applying it to a live match scenario, showing how data can drive strategic insights even in sports.
