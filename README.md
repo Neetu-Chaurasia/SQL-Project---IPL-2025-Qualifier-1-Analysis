@@ -1,0 +1,1 @@
+# SQL-Project---IPL-2025-Qualifier-1-Analysis
